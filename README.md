@@ -1,2 +1,2 @@
-# YT_MB_CodeBlog
+# YT CodeBlog
 Java Spring | CodeBlog
